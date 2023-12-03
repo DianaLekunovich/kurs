@@ -1,0 +1,8 @@
+1. W pliku backend/index.js w linijkach 10, 11 i 41 wpisać login, hasło i numer telefonu
+2. Stworzyć nowy terminal
+3. Wpisać npm install
+4. Wejść w katalog backend
+5. Wpisać node index.js
+6. Stworzyć drugi terminal
+7. Wejść w katalog front
+8. Wpisać npm run serve
